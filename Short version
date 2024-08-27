@@ -1,0 +1,9 @@
+'''
+if (comput_choice == you):
+    print("It's a tie!")
+else:
+    if(comput_choice - you == -1) and (computer_choice - you == 2):
+        print("Computer wins!")
+    else:
+        print("You wins!")
+'''
